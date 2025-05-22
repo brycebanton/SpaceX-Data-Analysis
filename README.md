@@ -3,7 +3,7 @@
 ### Welcome! This is a Data Engineering project that pulls some SpaceX Data using api calls via Python!
 
 #### To Note: 
-When doing analysis of this data and looking at what columns there are, I found it to be lacking substance. With what I have, I demonstrated my Data Engineering skills, data analysis, and showed that I can write intermediate SQL (may not be complex due to the data I had)
+When doing analysis of this data and looking at what columns there are, I found it to be lacking substance. With what I have, I demonstrated my Data Engineering skills, data analysis, and showed that I can write intermediate SQL (may not be complex due to the data I had). I've commented throughout this notebook on analysis summary and next steps I would like to do for this project.
 
 ### About: 
 This analysis covers API pulls via JSON, Data Wrangling (Processing), DDL creation using SQLite3 in Python, and SQL executables commands for data analysis.
