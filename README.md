@@ -19,6 +19,7 @@ SQLite studio for an easy option. This helps view the database, tables, and data
               import numpy as np
               import plotly.express as px
               import sqlite3
+              import matplotlib.pyplot as plt
 
 ### Data Links: 
               "https://api.spacexdata.com/v4/rockets/"
